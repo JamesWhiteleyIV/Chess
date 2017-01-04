@@ -2,6 +2,8 @@
 2-D Chess game written in C++
 
 Features:
--Pawn promotion
+-Pawn promotion 
+
 -Move validation (also checks for game pieces in the way of move)
+
 -Check and Checkmate logic
