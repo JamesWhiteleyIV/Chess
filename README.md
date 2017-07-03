@@ -12,6 +12,6 @@ Features:
 
 Future features:
 
--GUI written in QT
+-GUI written in QT  *** re-wrote chess game in javascript ***
 
 -Ability to click and drag pieces
