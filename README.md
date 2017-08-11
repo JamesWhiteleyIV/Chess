@@ -1,6 +1,9 @@
 # Chess
 2-D Chess game 
 
+A simple project written on the side during my first quarter at Oregon State Univerity's 
+Computer Science program.
+
 Features:
 
 -Pawn promotion 
